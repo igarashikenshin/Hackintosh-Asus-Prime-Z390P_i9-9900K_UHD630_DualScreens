@@ -41,7 +41,7 @@
 1. AirDrop & HandOff & Continuity: Working.
 
 ![Wi-Fi en0](https://i.imgur.com/daoSzyJ.png)
-![BlueTooth](https://i.imgur.com/Cgr8AJv.png)
+![BlueTooth](https://i.loli.net/2021/04/07/ocigaQV7JOCdpzF.png)
 ![Apple Watch](https://i.imgur.com/iYimFue.png)
 
 ### Tips:
