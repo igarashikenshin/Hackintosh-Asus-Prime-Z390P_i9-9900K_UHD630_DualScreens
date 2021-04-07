@@ -2,7 +2,7 @@
 
 [中文](https://github.com/igarashikenshin/Hackintosh-Asus-Prime-Z390P_i9-9900K_UHD630_DualScreens/blob/master/README.md)｜[English](https://github.com/igarashikenshin/Hackintosh-Asus-Prime-Z390P_i9-9900K_UHD630_DualScreens/blob/master/README-EN.md)
 
-![System Info](https://i.loli.net/2021/02/17/zMhEk3DxdnbOaU1.png)
+![System Info](https://i.loli.net/2021/04/07/IylTbpwdFNgDCjk.png)
 
 ### Configuration
 1. Motherboard: ASUS PRIME Z390-P
