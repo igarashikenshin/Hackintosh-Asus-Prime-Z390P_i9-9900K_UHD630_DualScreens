@@ -22,7 +22,7 @@
 1. Start-start settings-quick start-disable, if there is an error, wait for the F1 key-disable
 1. Setting mode-advanced mode
 
-**Applicable operating system version: macOS Catalina 10.15.1～11.3 beta6**
+**Applicable operating system version: macOS Catalina 10.15.1～11.3 beta7**
 
 1. OpenCore version: 0.6.8
 1. Clover version: Clover version is no longer available
