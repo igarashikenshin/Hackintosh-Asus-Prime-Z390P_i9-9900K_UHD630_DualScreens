@@ -25,7 +25,7 @@
 1. 启动-启动设置--快速启动-disable，若出现错误等待按下F1键-disable
 1. 设置模式-高级模式
 
-**可适用操作系统版本：macOS Catalina 10.15.1～11.3 beta6**
+**可适用操作系统版本：macOS Catalina 10.15.1～11.3 beta7**
 
 1. OpenCore版本：0.6.8
 1. CPU变频：正常。
